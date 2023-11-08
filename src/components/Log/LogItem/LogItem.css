@@ -1,0 +1,44 @@
+.logItem{
+   
+    padding: 10px;
+    background-color:rgb(186, 231, 186);
+    display: flex;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+
+.content{
+    flex: auto;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+ 
+}
+
+.content div{
+    margin: 10px;
+}
+
+.content .time{
+    color: #d62828 ;
+}
+
+
+.delete{
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 10px;
+    color: #d62828;
+    cursor: pointer;
+   
+}
+
+.delete:hover{
+    color: white;
+    
+}
+
+
+
+
